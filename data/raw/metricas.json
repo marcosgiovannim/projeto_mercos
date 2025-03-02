@@ -1,0 +1,4013 @@
+{
+    "0": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10906.27
+    },
+    "1": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 21518.88
+    },
+    "2": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7824.5
+    },
+    "3": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 15832.88
+    },
+    "4": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12182.3
+    },
+    "5": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 8833.17
+    },
+    "6": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "7": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 13937.61
+    },
+    "8": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 780822.04
+    },
+    "9": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 43033.34
+    },
+    "10": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "11": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 43033.34
+    },
+    "12": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 509890.31
+    },
+    "13": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 43478.65
+    },
+    "14": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 484163.49
+    },
+    "15": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 498068.64
+    },
+    "16": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 45449.85
+    },
+    "17": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 840946.67
+    },
+    "18": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 514959.89
+    },
+    "19": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 530757.35
+    },
+    "20": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 845542.41
+    },
+    "21": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 45683.34
+    },
+    "22": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "23": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 551171.710000001
+    },
+    "24": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 531029.68
+    },
+    "25": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 45727.42
+    },
+    "26": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 876795.560000001
+    },
+    "27": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 43993.22
+    },
+    "28": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 725547.780000002
+    },
+    "29": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 43993.22
+    },
+    "30": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 653024.37
+    },
+    "31": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 577245.270000001
+    },
+    "32": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 968272.580000001
+    },
+    "33": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 936515.530000002
+    },
+    "34": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 719390.300000002
+    },
+    "35": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 44695.82
+    },
+    "36": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 11136.78
+    },
+    "37": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13540.21
+    },
+    "38": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 949440.160000001
+    },
+    "39": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12496.74
+    },
+    "40": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 722416.710000001
+    },
+    "41": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 34717.5
+    },
+    "42": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 632217.720000001
+    },
+    "43": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1047891.43
+    },
+    "44": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13294.21
+    },
+    "45": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 669997.060000001
+    },
+    "46": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1111926.24
+    },
+    "47": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-D",
+      "total": 10466.98
+    },
+    "48": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 781892.3
+    },
+    "49": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13530.25
+    },
+    "50": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 704806.380000001
+    },
+    "51": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1129067.67
+    },
+    "52": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 973936.540000001
+    },
+    "53": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 802646.770000001
+    },
+    "54": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1164919.5
+    },
+    "55": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 833497.740000001
+    },
+    "56": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13787.51
+    },
+    "57": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1185411.36
+    },
+    "58": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 985248.700000001
+    },
+    "59": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1206297
+    },
+    "60": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 731471.080000002
+    },
+    "61": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 882736.08
+    },
+    "62": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 734556.660000001
+    },
+    "63": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 890510.160000001
+    },
+    "64": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14445.21
+    },
+    "65": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 824583.800000002
+    },
+    "66": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1272385.31
+    },
+    "67": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 756354.890000002
+    },
+    "68": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 919086.200000001
+    },
+    "69": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 853961.530000001
+    },
+    "70": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1331944.48
+    },
+    "71": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 1000873.47
+    },
+    "72": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 767546.810000002
+    },
+    "73": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 945432.17
+    },
+    "74": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 1002662.5
+    },
+    "75": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 764603.710000001
+    },
+    "76": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1374396.83
+    },
+    "77": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14542.51
+    },
+    "78": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 766125.560000001
+    },
+    "79": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14345.51
+    },
+    "80": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 938354.550000001
+    },
+    "81": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 1019831.75
+    },
+    "82": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 1010691.15
+    },
+    "83": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1462190.81
+    },
+    "84": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 1017911.66
+    },
+    "85": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 1075038.01
+    },
+    "86": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 18650.91
+    },
+    "87": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 3438.95
+    },
+    "88": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10996.91
+    },
+    "89": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19895.16
+    },
+    "90": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 22133
+    },
+    "91": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19472.45
+    },
+    "92": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12601.99
+    },
+    "93": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 13936.75
+    },
+    "94": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 29583.8
+    },
+    "95": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10832.3
+    },
+    "96": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 28521.6
+    },
+    "97": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 14074.35
+    },
+    "98": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 14572.9
+    },
+    "99": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14718.87
+    },
+    "100": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 21305.87
+    },
+    "101": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 26511.85
+    },
+    "102": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 16617.95
+    },
+    "103": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14805.84
+    },
+    "104": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 26628.44
+    },
+    "105": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7593.4
+    },
+    "106": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 28796.34
+    },
+    "107": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 28468.25
+    },
+    "108": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 13408.91
+    },
+    "109": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 15161.93
+    },
+    "110": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7158.14
+    },
+    "111": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 23824.15
+    },
+    "112": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 21647.81
+    },
+    "113": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 28933.8
+    },
+    "114": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 21675.86
+    },
+    "115": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 25207.55
+    },
+    "116": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12223.98
+    },
+    "117": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 16532
+    },
+    "118": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 5651.1
+    },
+    "119": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14325
+    },
+    "120": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 8882.8
+    },
+    "121": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 21408.61
+    },
+    "122": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16022
+    },
+    "123": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 8454.64
+    },
+    "124": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 13530.89
+    },
+    "125": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 11106.6
+    },
+    "126": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27962.6
+    },
+    "127": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 17840
+    },
+    "128": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27560.87
+    },
+    "129": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10906.27
+    },
+    "130": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 15114.48
+    },
+    "131": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 32079.32
+    },
+    "132": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 32063.8
+    },
+    "133": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16164
+    },
+    "134": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12182.3
+    },
+    "135": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 33202.34
+    },
+    "136": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 7278.9
+    },
+    "137": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 13937.61
+    },
+    "138": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "139": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 22133
+    },
+    "140": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 11253.8
+    },
+    "141": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "142": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "143": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19472.45
+    },
+    "144": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 15470.28
+    },
+    "145": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19328.4
+    },
+    "146": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "147": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "148": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "149": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "150": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "151": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 29583.8
+    },
+    "152": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "153": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10832.3
+    },
+    "154": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 14074.35
+    },
+    "155": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "156": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 22838.53
+    },
+    "157": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 14572.9
+    },
+    "158": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "159": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 15624.94
+    },
+    "160": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 15330.73
+    },
+    "161": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16536.82
+    },
+    "162": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "163": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 26511.85
+    },
+    "164": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14805.84
+    },
+    "165": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "166": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "167": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 24765.87
+    },
+    "168": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 32624.29
+    },
+    "169": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 20744.81
+    },
+    "170": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "171": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "172": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 28468.25
+    },
+    "173": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 13408.91
+    },
+    "174": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19423.3
+    },
+    "175": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14619.83
+    },
+    "176": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7158.14
+    },
+    "177": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "178": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 7933
+    },
+    "179": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 21675.86
+    },
+    "180": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 23976.72
+    },
+    "181": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 16532
+    },
+    "182": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 22032.1
+    },
+    "183": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 25286.54
+    },
+    "184": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "185": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 24581.64
+    },
+    "186": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19710.23
+    },
+    "187": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 35317.68
+    },
+    "188": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 24106.34
+    },
+    "189": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "190": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 31366.85
+    },
+    "191": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 13343
+    },
+    "192": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 33802.85
+    },
+    "193": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 15114.48
+    },
+    "194": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "195": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 32079.32
+    },
+    "196": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 11183.55
+    },
+    "197": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "198": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 34810.96
+    },
+    "199": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7032.3
+    },
+    "200": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 25743.6
+    },
+    "201": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "202": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 36021.05
+    },
+    "203": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 12449
+    },
+    "204": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 501837.58
+    },
+    "205": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 11943.89
+    },
+    "206": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 572051.49
+    },
+    "207": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 803912.63
+    },
+    "208": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 15843.29
+    },
+    "209": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 506732.48
+    },
+    "210": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 582887.05
+    },
+    "211": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 468160.900000001
+    },
+    "212": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 812105.26
+    },
+    "213": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16040.33
+    },
+    "214": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "215": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 828490.96
+    },
+    "216": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 11984.14
+    },
+    "217": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 585329.9
+    },
+    "218": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 494339.33
+    },
+    "219": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 591680.48
+    },
+    "220": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16886.21
+    },
+    "221": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 532806.6
+    },
+    "222": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12086.66
+    },
+    "223": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16791.33
+    },
+    "224": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12086.66
+    },
+    "225": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 624397.32
+    },
+    "226": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "227": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 557045.6
+    },
+    "228": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 537681.36
+    },
+    "229": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 638288.18
+    },
+    "230": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "231": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 949184.29
+    },
+    "232": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12086.66
+    },
+    "233": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13480.23
+    },
+    "234": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12189.18
+    },
+    "235": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 991265.410000001
+    },
+    "236": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 718729.060000001
+    },
+    "237": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 11136.78
+    },
+    "238": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 611913.950000001
+    },
+    "239": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1024080.92
+    },
+    "240": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 962874.530000001
+    },
+    "241": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 726089.720000001
+    },
+    "242": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 10780.8
+    },
+    "243": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12394.22
+    },
+    "244": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 755698.73
+    },
+    "245": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 34717.5
+    },
+    "246": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 10780.8
+    },
+    "247": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12394.22
+    },
+    "248": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 769789.65
+    },
+    "249": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 976274.040000001
+    },
+    "250": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 733348.710000002
+    },
+    "251": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14006.51
+    },
+    "252": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 815308.16
+    },
+    "253": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13827.51
+    },
+    "254": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 973304.100000001
+    },
+    "255": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 736054.330000002
+    },
+    "256": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 765515.340000002
+    },
+    "257": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 726921.080000002
+    },
+    "258": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 860620.1
+    },
+    "259": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14136.56
+    },
+    "260": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 806679.060000002
+    },
+    "261": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1260655.38
+    },
+    "262": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 910833.050000001
+    },
+    "263": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 834971.490000002
+    },
+    "264": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1306478.19
+    },
+    "265": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 994551.280000001
+    },
+    "266": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 763579.120000002
+    },
+    "267": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14750.86
+    },
+    "268": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 973303.14
+    },
+    "269": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 897331.740000001
+    },
+    "270": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 991178.85
+    },
+    "271": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 755958.410000001
+    },
+    "272": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 966819.850000002
+    },
+    "273": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1437116.12
+    },
+    "274": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14493.51
+    },
+    "275": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 777955.69
+    },
+    "276": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14394.51
+    },
+    "277": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 995607.130000002
+    },
+    "278": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27967.75
+    },
+    "279": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 11253.8
+    },
+    "280": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 20413.32
+    },
+    "281": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 28281.96
+    },
+    "282": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10058.3
+    },
+    "283": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 41498.54
+    },
+    "284": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 15261.5
+    },
+    "285": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 23821.57
+    },
+    "286": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 28517.23
+    },
+    "287": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 25273.3
+    },
+    "288": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 16149.55
+    },
+    "289": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 24157.42
+    },
+    "290": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 22838.53
+    },
+    "291": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 18592.14
+    },
+    "292": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 29399.08
+    },
+    "293": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 15624.94
+    },
+    "294": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12056.89
+    },
+    "295": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 24765.87
+    },
+    "296": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 32624.29
+    },
+    "297": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 27166.14
+    },
+    "298": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 35367.67
+    },
+    "299": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 31520.12
+    },
+    "300": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14619.83
+    },
+    "301": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-D",
+      "total": 3151.98
+    },
+    "302": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 27274.79
+    },
+    "303": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 11966.27
+    },
+    "304": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19241.55
+    },
+    "305": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 17797.75
+    },
+    "306": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 22032.1
+    },
+    "307": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 14574.12
+    },
+    "308": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19710.23
+    },
+    "309": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 22577.56
+    },
+    "310": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 20600.92
+    },
+    "311": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 35317.68
+    },
+    "312": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 9378.91
+    },
+    "313": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 31366.85
+    },
+    "314": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 28625.21
+    },
+    "315": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16345.2
+    },
+    "316": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 21518.88
+    },
+    "317": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 15832.88
+    },
+    "318": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 34810.96
+    },
+    "319": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 25049.67
+    },
+    "320": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 25743.6
+    },
+    "321": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 12449
+    },
+    "322": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 18650.91
+    },
+    "323": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "NAO INFORMADO",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "324": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19895.16
+    },
+    "325": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 20413.32
+    },
+    "326": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 13361.3
+    },
+    "327": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12181.09
+    },
+    "328": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "329": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10058.3
+    },
+    "330": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "331": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 26969.95
+    },
+    "332": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 15261.5
+    },
+    "333": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 13936.75
+    },
+    "334": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "335": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "336": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 28517.23
+    },
+    "337": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "338": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 16149.55
+    },
+    "339": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "340": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "341": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 24157.42
+    },
+    "342": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "343": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14718.87
+    },
+    "344": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "345": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 29399.08
+    },
+    "346": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "347": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "348": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 21305.87
+    },
+    "349": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12056.89
+    },
+    "350": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "351": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "352": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 26628.44
+    },
+    "353": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 27166.14
+    },
+    "354": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 28796.34
+    },
+    "355": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "356": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "357": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "358": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-D",
+      "total": 3151.98
+    },
+    "359": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 9940.19
+    },
+    "360": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 24455.95
+    },
+    "361": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 13067.19
+    },
+    "362": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 23824.15
+    },
+    "363": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7702.55
+    },
+    "364": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 17872.81
+    },
+    "365": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14960
+    },
+    "366": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 11966.27
+    },
+    "367": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19241.55
+    },
+    "368": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "369": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 25207.55
+    },
+    "370": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "371": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 18030.02
+    },
+    "372": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "373": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 14574.12
+    },
+    "374": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 22577.56
+    },
+    "375": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 13530.89
+    },
+    "376": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "377": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 11362
+    },
+    "378": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12007.35
+    },
+    "379": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27962.6
+    },
+    "380": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 38763.9
+    },
+    "381": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 22645.5
+    },
+    "382": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 11998
+    },
+    "383": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 25049.67
+    },
+    "384": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "385": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 32063.8
+    },
+    "386": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16164
+    },
+    "387": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 33202.34
+    },
+    "388": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 6667.8
+    },
+    "389": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 7278.9
+    },
+    "390": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16804.86
+    },
+    "391": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 463911.490000001
+    },
+    "392": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 11984.14
+    },
+    "393": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "394": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 11984.14
+    },
+    "395": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 575625.2
+    },
+    "396": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16049.24
+    },
+    "397": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "398": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16305.14
+    },
+    "399": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 45683.34
+    },
+    "400": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 11984.14
+    },
+    "401": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 11646.6
+    },
+    "402": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 617673.8
+    },
+    "403": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 869642.870000001
+    },
+    "404": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16458.2
+    },
+    "405": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 12086.66
+    },
+    "406": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 568550.000000001
+    },
+    "407": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 930035.240000001
+    },
+    "408": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 11136.78
+    },
+    "409": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 691835.01
+    },
+    "410": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 589337.800000001
+    },
+    "411": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 44695.82
+    },
+    "412": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13906.62
+    },
+    "413": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13906.62
+    },
+    "414": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 967571.740000001
+    },
+    "415": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 730662.920000001
+    },
+    "416": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 734784.550000001
+    },
+    "417": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 729973.160000002
+    },
+    "418": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1145882.41
+    },
+    "419": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 963928.740000001
+    },
+    "420": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 726241.110000002
+    },
+    "421": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 728691.380000002
+    },
+    "422": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 734403.910000002
+    },
+    "423": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 733660.290000001
+    },
+    "424": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 846207.82
+    },
+    "425": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 13728.51
+    },
+    "426": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 994503.930000001
+    },
+    "427": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 784167.750000001
+    },
+    "428": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1237016.57
+    },
+    "429": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 993154.550000001
+    },
+    "430": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14275.56
+    },
+    "431": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 995478.720000001
+    },
+    "432": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 994201.210000001
+    },
+    "433": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14078.81
+    },
+    "434": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14037.16
+    },
+    "435": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 877872.400000001
+    },
+    "436": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1348097.03
+    },
+    "437": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14542.51
+    },
+    "438": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 1010443.93
+    },
+    "439": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 762227.270000001
+    },
+    "440": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 917177.070000001
+    },
+    "441": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1402906.18
+    },
+    "442": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 1006460.54
+    },
+    "443": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 1003641.98
+    },
+    "444": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 1420035.94
+    },
+    "445": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 998254.19
+    },
+    "446": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 14444.51
+    },
+    "447": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 774074.860000001
+    },
+    "448": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 1053175.24
+    },
+    "449": {
+      "ds_metrica": "metrica_2",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 988066.410000001
+    },
+    "450": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 16829.39
+    },
+    "451": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 13361.3
+    },
+    "452": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12181.09
+    },
+    "453": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 15470.28
+    },
+    "454": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 4656.2
+    },
+    "455": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19328.4
+    },
+    "456": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 26969.95
+    },
+    "457": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 10163.7
+    },
+    "458": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 13945.45
+    },
+    "459": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 15330.73
+    },
+    "460": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16536.82
+    },
+    "461": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12493.05
+    },
+    "462": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 20744.81
+    },
+    "463": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 19423.3
+    },
+    "464": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 9940.19
+    },
+    "465": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 24455.95
+    },
+    "466": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 29805.47
+    },
+    "467": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 13067.19
+    },
+    "468": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 25165.64
+    },
+    "469": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 26165.56
+    },
+    "470": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 7933
+    },
+    "471": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7702.55
+    },
+    "472": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 17872.81
+    },
+    "473": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14960
+    },
+    "474": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 23976.72
+    },
+    "475": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27603.16
+    },
+    "476": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 18030.02
+    },
+    "477": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 25286.54
+    },
+    "478": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 31801.56
+    },
+    "479": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 24581.64
+    },
+    "480": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2754
+    },
+    "481": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 30286.18
+    },
+    "482": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14192
+    },
+    "483": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 29181.95
+    },
+    "484": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 11362
+    },
+    "485": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12007.35
+    },
+    "486": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 38763.9
+    },
+    "487": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 24106.34
+    },
+    "488": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 13343
+    },
+    "489": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 8457.05
+    },
+    "490": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 33802.85
+    },
+    "491": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 16319.25
+    },
+    "492": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 11183.55
+    },
+    "493": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7824.5
+    },
+    "494": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 22645.5
+    },
+    "495": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 11998
+    },
+    "496": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2024-12-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7032.3
+    },
+    "497": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 36021.05
+    },
+    "498": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 8833.17
+    },
+    "499": {
+      "ds_metrica": "metrica_3",
+      "dt_referencia": "2025-02-20",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 6667.8
+    },
+    "500": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 3438.95
+    },
+    "501": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 10996.91
+    },
+    "502": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "NAO INFORMADO",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "503": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "NAO INFORMADO",
+      "ds_segmento": "NAO INFORMADO",
+      "total": 2685
+    },
+    "504": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "505": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "506": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27967.75
+    },
+    "507": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "508": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "509": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 16829.39
+    },
+    "510": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "511": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "512": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "513": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "514": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 28281.96
+    },
+    "515": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2022-12-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 4656.2
+    },
+    "516": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 10163.7
+    },
+    "517": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12601.99
+    },
+    "518": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 13945.45
+    },
+    "519": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-01-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 41498.54
+    },
+    "520": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "521": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "522": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-02-28",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 23821.57
+    },
+    "523": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "524": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 28521.6
+    },
+    "525": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "526": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-03-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 25273.3
+    },
+    "527": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 18592.14
+    },
+    "528": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "529": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "530": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12493.05
+    },
+    "531": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "532": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 16617.95
+    },
+    "533": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 7593.4
+    },
+    "534": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-M",
+      "total": 2685
+    },
+    "535": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-08-31",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "536": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 15161.93
+    },
+    "537": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalC",
+      "ds_segmento": "segmento-S",
+      "total": 2685
+    },
+    "538": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 35367.67
+    },
+    "539": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 31520.12
+    },
+    "540": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "541": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-10-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 29805.47
+    },
+    "542": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 27274.79
+    },
+    "543": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 25165.64
+    },
+    "544": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-11-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 26165.56
+    },
+    "545": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 21647.81
+    },
+    "546": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2023-12-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "547": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-01-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 28933.8
+    },
+    "548": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 17797.75
+    },
+    "549": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 12223.98
+    },
+    "550": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-02-29",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27603.16
+    },
+    "551": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-03-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 5651.1
+    },
+    "552": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 31801.56
+    },
+    "553": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14325
+    },
+    "554": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 8882.8
+    },
+    "555": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-04-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 21408.61
+    },
+    "556": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16022
+    },
+    "557": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 8454.64
+    },
+    "558": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2754
+    },
+    "559": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-05-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 30286.18
+    },
+    "560": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 14192
+    },
+    "561": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-06-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 20600.92
+    },
+    "562": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 29181.95
+    },
+    "563": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 11106.6
+    },
+    "564": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-07-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "565": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 17840
+    },
+    "566": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 9378.91
+    },
+    "567": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-08-31",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-S",
+      "total": 27560.87
+    },
+    "568": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-S",
+      "total": 8457.05
+    },
+    "569": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-M",
+      "total": 28625.21
+    },
+    "570": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-09-30",
+      "ds_canal_aquisicao": "canalB",
+      "ds_segmento": "segmento-R",
+      "total": 2685
+    },
+    "571": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-M",
+      "total": 16319.25
+    },
+    "572": {
+      "ds_metrica": "metrica_1",
+      "dt_referencia": "2024-10-31",
+      "ds_canal_aquisicao": "canalA",
+      "ds_segmento": "segmento-R",
+      "total": 16345.2
+    }
+  }
