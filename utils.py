@@ -175,11 +175,3 @@ def convert_to_datetime(df: pd.DataFrame, column):
     except Exception as e:
         # Registra erro se houver falha geral na conversão da coluna
         logger.error(f"Erro ao converter colunas para datetime: {e}")
-
-
-
-
-
-    
-    
-

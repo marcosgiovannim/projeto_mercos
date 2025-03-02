@@ -89,8 +89,6 @@ def main():
 
     logger.success("Processamento de dados completo")
 
-    stage1_df.to_csv("data/processed/rateio_etapa1.csv")
-    stage2_df.to_csv("data/processed/rateio_etapa2.csv")
     
     
 if __name__ == "__main__":
