@@ -38,5 +38,7 @@ Este projeto realiza o rateio de valores entre diferentes centros e segmentos ba
 - `engine.py`: Contém a classe `RateioEngine` responsável pelo processamento dos estágios de rateio.
 - `utils.py`: Funções utilitárias para leitura de arquivos, conversão de dados e manipulação de DataFrames.
 - `requirements.txt`: Lista de dependências do projeto.
+- `data/raw`: Diretório para armazenar os arquivos JSON de dados brutos.
+- `data/processed`: Diretório para armazenar os arquivos Parquet processados.
 
 
