@@ -1,5 +1,4 @@
 import os
-import pyarrow as pa
 from loguru import logger
 
 from engine import RateioEngine
@@ -7,7 +6,10 @@ from engine import RateioEngine
 from utils import (
     read_raw_files,
     convert_to_df,
-    convert_to_datetime
+    convert_to_datetime,
+    get_connection,
+    truncate_table,
+    insert_data
 )
 
 def load_json_data():
@@ -83,13 +85,23 @@ def main():
     stage1_df = engine.process_first_stage()
     stage2_df = engine.process_second_stage(stage1_df)
     
+    conn = get_connection()
+
+    # Barcos de dados : trunca e insere dados
+    # OBS.: Manter comentado caso não tenha acesso ao banco de dados
+    truncate_table(conn, "tb_rateio_1")
+    truncate_table(conn, "tb_rateio_2")
+
+    # OBS.: Manter comentado caso não tenha acesso ao banco de dados
+    insert_data(conn, "tb_rateio_1", stage1_df)
+    insert_data(conn, "tb_rateio_2", stage2_df)
+
     # Salvar resultados
     stage1_df.to_parquet("data/processed/rateio_etapa1.parquet")
     stage2_df.to_parquet("data/processed/rateio_etapa2.parquet")
 
     logger.success("Processamento de dados completo")
 
-    
     
 if __name__ == "__main__":
     main()
