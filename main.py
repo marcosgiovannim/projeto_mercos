@@ -1,5 +1,4 @@
 import os
-import pyarrow as pa
 from loguru import logger
 
 from engine import RateioEngine
@@ -93,6 +92,7 @@ def main():
     truncate_table(conn, "tb_rateio_1")
     truncate_table(conn, "tb_rateio_2")
 
+    # OBS.: Manter comentado caso não tenha acesso ao banco de dados
     insert_data(conn, "tb_rateio_1", stage1_df)
     insert_data(conn, "tb_rateio_2", stage2_df)
 
@@ -100,12 +100,8 @@ def main():
     stage1_df.to_parquet("data/processed/rateio_etapa1.parquet")
     stage2_df.to_parquet("data/processed/rateio_etapa2.parquet")
 
-    #stage1_df.to_csv("data/processed/rateio_etapa1.csv")
-    #stage2_df.to_csv("data/processed/rateio_etapa2.csv")
-
     logger.success("Processamento de dados completo")
 
-    
     
 if __name__ == "__main__":
     main()
