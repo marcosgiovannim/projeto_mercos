@@ -1,8 +1,116 @@
 import json 
 import os
 import arrow
+import mysql.connector
 import pandas as pd
+
 from loguru import logger
+
+
+def get_connection():
+    """
+    Retorna uma conexão com o banco de dados.
+    
+    Returns:
+        Connection: Conexão com o banco de dados.
+    """
+    try:
+        conn = mysql.connector.connect(
+            host=os.environ.get('DB_HOST', 'localhost'),
+            port=os.environ.get('DB_PORT', 3306),
+            user=os.environ.get('DB_USER'),
+            password=os.environ.get('DB_PASSWORD'),
+            database=os.environ.get('DB_NAME')
+        )
+        return conn
+    
+    except mysql.connector.Error as e:
+        logger.error(f"Erro ao conectar ao banco de dados: {e}")   
+
+
+def execute_query(conn, query):
+    """
+    Executa uma query SQL na conexão especificada.
+    
+    Args:
+        conn: Conexão com o banco de dados.
+        query: Query SQL a ser executada.
+        
+    Returns:
+        list: Resultado da query.
+    """
+    with conn.cursor() as cursor:
+        cursor.execute(query)
+        result = cursor.fetchall()
+        return result
+
+
+def truncate_table(conn, table):
+    """
+    Trunca a tabela especificada, mantendo a estrutura da tabela.
+    
+    Args:
+        conn: Objeto de conexão com o banco de dados a ser usado na operação.
+        table (str): Nome da tabela a ser truncada.
+        
+    Returns:
+        list: Resultado da operação de truncamento (tipicamente vazio para consultas de truncamento).
+    """
+    query = f"""
+        TRUNCATE TABLE {table};
+    """
+    return execute_query(conn, query)
+
+def insert_data(conn, table, df):
+    """
+    Insere dados de um DataFrame em uma tabela do banco de dados.
+    
+    Esta função processa o DataFrame e insere seus dados na tabela especificada,
+    usando inserção em lotes para melhor performance. Trata valores nulos
+    e fornece feedback sobre o número de registros inseridos.
+    
+    Args:
+        conn: Conexão com o banco de dados.
+        table (str): Nome da tabela onde os dados serão inseridos.
+        df (pd.DataFrame): DataFrame contendo os dados a serem inseridos.
+        
+    Returns:
+        None: A função não retorna valores, mas registra o resultado da operação.
+    """
+    cursor = conn.cursor()
+    
+    columns = ", ".join([f"`{col}`" for col in df.columns])
+    placeholders = ", ".join(["%s"] * len(df.columns))
+
+    query = f"""
+        INSERT INTO {table} ({columns}) VALUES ({placeholders});
+    """
+
+    # Converter dados do DataFrame para lista de valores, tratando valores nulos
+    values = []
+    for row in df.itertuples(index=False):
+        row_values = []
+        for val in row:
+            if pd.isna(val):
+                row_values.append(None)
+            else:
+                row_values.append(val)
+        values.append(row_values)
+
+    # Definir tamanho do lote para inserção em massa
+    batch_size = 1000
+    total_inserted = 0
+    
+    # Inserir dados em lotes para melhor performance
+    for i in range(0, len(values), batch_size):
+        batch = values[i:i+batch_size]
+        cursor.executemany(query, batch)
+        total_inserted += cursor.rowcount
+        conn.commit()
+    
+    logger.success(f"{total_inserted} registros inseridos na tabela {table}")
+
+
 
 
 def read_json_file(file_path):
@@ -18,7 +126,6 @@ def read_json_file(file_path):
         FileNotFoundError: Registra erro se o arquivo não for encontrado.
         json.JSONDecodeError: Registra erro se o arquivo não for um JSON válido.
     """
-    
     try:
         with open(file_path) as f:
             data = json.load(f) 
@@ -113,6 +220,7 @@ def convert_to_df(data: dict):
 
 
 def convert_to_datetime(df: pd.DataFrame, column):
+    
     """
     Converte uma coluna de um DataFrame para o formato datetime padrão.
     
